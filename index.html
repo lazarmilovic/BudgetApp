@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class="budget_calc">
+		<h2><span class="difference">0</span></h2>
+		<div id="green">Income: 0</div>
+		<div id="red">Expense: 0</div>
+		
+	</div>
+	<div class="inputs">
+		<select id="select">
+			<option class="inc" value="inc"><span class="inc_exp">+</span></option>
+			<option class="exp" value="exp"><span class="inc_exp">-</span></option>
+		</select>
+		<input type="text" id="desc">
+		<input type="text" id="value">
+		<button class="btn-start" id="btn-start"><i class="ion-ios-checkmark-outline"></i></button>
+	</div>
+
+	<div class="items">
+		<div id="income">
+			<div class="inc">
+				<h4>INCOME</h4>
+			</div>
+			<div class="item_inc">
+				<!--<h4>Item 1</h4>
+				<h4>2300</h4>
+				<button class="item__delete--btn">
+                    <i class="ion-ios-close-outline"></i>
+                </button> -->
+			</div>
+		</div>
+		<div id="expense">
+			<div class="exp">
+				<h4>EXPENSE</h4>
+			</div>
+			<div class="item_exp">
+				<!--<h4>Item 1</h4>
+				<h4>2300</h4>
+				<button class="item__delete--btn">
+                    <i class="ion-ios-close-outline"></i>
+                </button> -->
+			</div>
+
+		</div>
+
+	</div>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
