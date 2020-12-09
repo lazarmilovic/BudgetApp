@@ -23,4 +23,4 @@ Each added item can be deleted by clicking the "x" button on the right side of e
 
 ## Setup
 
-Just download the code and run the index.html page. 
+Just download the code and run the index.html page.  
