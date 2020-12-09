@@ -13,7 +13,7 @@ Each added item can be deleted by clicking the "x" button on the right side of e
 
 ## Screenshot
 
-![alt text](https://github.com/lazarmilovic/[BudgetApp/blob/master/preview.png?raw=true)
+![alt text](https://github.com/lazarmilovic/BudgetApp/blob/master/preview.png?raw=true)
 
 ## Technologies
 
