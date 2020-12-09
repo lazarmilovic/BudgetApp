@@ -1,4 +1,26 @@
 # BudgetApp
 
+## Table of content
+* [General info](#general_info)
+* [Screenshot](#screenshot)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+
 A simple budget application built in JS. The user can choose if an expanse or an income will be added to the calculation and based on it, the app will calculate the total for both income and outcome as well as the difference between them. Every time user adds another item, it will be displayed under adequate category (income or expence) by adding another HTML element and the fields for total income, total expense and the difference(the budget) will be automatically calculated again. 
 Each added item can be deleted by clicking the "x" button on the right side of each added element. After an element is deleted, it will be removed from UI and the calculation will go over again. 
+
+## Screenshot
+
+![alt text](https://github.com/lazarmilovic/[BudgetApp/blob/master/preview.png?raw=true)
+
+## Technologies
+
+* HTML
+* CSS
+* JS- ES6
+
+## Setup
+
+Just download the code and run the index.html page. 
